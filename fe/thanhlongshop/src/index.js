@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import HomePage from './pages/user/homePage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
- <h1>thanh long store</h1>
-);
+<HomePage/>);
 
 
