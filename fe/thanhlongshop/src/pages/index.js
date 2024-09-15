@@ -1,1 +1,1 @@
---chứa các biến dùng chung
+//chứa các biến dùng chung
